@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": "328f",
+      "email": "Nutt@gmail.com",
+      "password": "123"
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": "10e6",
+      "name": "Nuttri",
+      "department": "ADS",
+      "course": "AI/ML",
+      "faculty": "Ramya",
+      "feedback": "Good",
+      "userId": "328f",
+      "userEmail": "Nutt@gmail.com"
+    }
+  ]
+}
